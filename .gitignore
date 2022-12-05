@@ -1,6 +1,7 @@
 *.swp
 *.swo
 .env
+.env.local
 .dev.env
 .debug.env
 .DS_Store
